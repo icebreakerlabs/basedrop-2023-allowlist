@@ -27,6 +27,6 @@ The allowlisted communities are as follows:
 
 You can view [the raw allow list data](https://raw.githubusercontent.com/icebreakerlabs/basedrop-2023-allowlist/main/basedrop2023.json), then cmd/ctrl+F to find your address.
 
-We chose an initial allowlist for this drop based on projects that have inspired us, changed, or supported the crypto landscape in some way. This is not intended to be a comprehensive list but hopefully reflective of active crypto users.
+We chose an initial allowlist for this drop based on projects that have inspired us, changed, or supported the crypto landscape in some way. This is not intended to be a comprehensive list as we aim to expand access to the platform over the coming months.
 
-If you believe you or your community should have an address on our allow list and do not see yourself listed, please reach out to us in our [Telegram channel](https://t.me/+f_62JMt-KU82N2Ex).
+If you believe you or your community should have an address on the allow list and do not see yourself listed, please reach out in our [Telegram channel](https://t.me/+f_62JMt-KU82N2Ex).

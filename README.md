@@ -13,7 +13,6 @@ Connect with other people IRL using Icebreaker and transact on Base to upgrade y
 ## Allowlist
 The allowlisted communities are as follows:
 * [Art Blocks Series 1](https://etherscan.io/address/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270)
-* [Base Day One](https://opensea.io/collection/base-day-one)
 * [Bored Ape Yacht Club](https://opensea.io/collection/boredapeyachtclub)
 * [Braindrops](https://etherscan.io/address/0xdfde78d2baec499fe18f2be74b6c287eed9511d7)
 * [Cryptopunks](https://cryptopunks.app/)
